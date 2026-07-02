@@ -4,7 +4,7 @@
 
 Welcome to **Chapter 5** of the **From Zero to Full Stack** series.
 
-In the previous chapters, we built a complete Full-Stack application with a backend and a frontend.
+In the previous chapters, we built a complete Full-Stack application with a backend and a frontend great. 
 
 Now it's time to transform that application into a professional software project by introducing modern DevOps practices.
 
